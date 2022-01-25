@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class StepikSpringApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(StepikSpringApplication.class, args);
-	}
-
+    public static void main( String[] args )
+    {
+        SpringApplication.run( StepikSpringApplication.class, args );
+    }
 }
